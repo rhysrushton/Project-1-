@@ -1,7 +1,7 @@
 # toYou
 Bringing various forms of entertainment **toYou** in those times you want to stay inside, or, given our current pandemic predicament, need to. Whether it be something **toWatch**, **toPlay**, or **toRead**, we'll bring your entertainment needs **toYou**. 
 
-https://solmarnov.github.io/project-zero/index.html
+https://rhysrushton.github.io/Project-1-/index
 
 ## Motivation 
 A collaboration and first joint project between 3 full stack programming bootcamp students. The concept was to bring various forms of entertainment to people affected by Covid-19 self-isolation and lockdown measures. But hey, who needs a reason for a bit of down-time? 
